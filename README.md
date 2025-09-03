@@ -2,13 +2,13 @@
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Prathamesh Sahebrav Jadhav** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Yash Kudale** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### 🚀 Full Stack JAVA Developer | Problem Solver | Open Source Enthusiast
+### 🚀 MERN Stack Developer | AI/ML Enthusiast | Problem Solver | Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Always+learning+new+technologies;Open+to+collaboration!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;AI/ML+Enthusiast;JavaScript+%7C+Python+%7C+React;Always+learning+new+technologies;Open+to+collaboration!" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Prathamesh-2005&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=YashKudale&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -19,27 +19,27 @@
 ## 🎯 **About Me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/>
 
 ```javascript
-const prathamesh = {
-    code: ["Java", "JavaScript", "Python", "C++"],
+const yash = {
+    code: ["JavaScript", "Python", "C++", "Java", "C"],
     technologies: {
-        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
-        backEnd: ["Spring Boot", "Spring Framework", "Node.js"],
-        databases: ["MySQL", "PostgreSQL", "Supabase"],
-        tools: ["Git", "Maven", "Postman", "Hibernate"]
+        frontEnd: ["React", "HTML5", "CSS3", "JavaScript"],
+        backEnd: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        aiMl: ["Scikit-Learn", "Pandas", "NumPy"],
+        tools: ["Git", "Postman"]
     },
-    currentFocus: "Building scalable web applications",
+    currentFocus: "Building full-stack applications with MERN & exploring AI/ML",
     challenge: "Contributing more to open source projects",
-    portfolio: "https://prathameshjadhavportfolio.vercel.app/"
+    portfolio: "Coming Soon!"
 }
 ```
 
-- 🌱 I'm currently learning more about **Full Stack Development, Open Source, and Data Structures and Algorithms.**
-- 👯 I'm looking to collaborate on **Projects based on React,Nextjs  and Java.**
-- 🏆 Goal: **Contribute more to open-source projects.**
-- 💬 Ask me about **Frontend Development, DSA, Java Full Stack Development, Spring Framework, Spring Boot**
-- 📫 How to reach me: **prathamesh.jadhav-0198@gmail.com**
-- 🌐 Check out my portfolio: **[prathameshjadhavportfolio.vercel.app](https://prathameshjadhavportfolio.vercel.app/)**
-- ⚡ **Would love to connect with like-minded people.**
+- 🌱 I'm currently learning more about **MERN Stack Development, AI/ML, and Data Structures and Algorithms.**
+- 👯 I'm looking to collaborate on **Projects based on MERN Stack and AI/ML.**
+- 🏆 Goal: **Contribute more to open-source projects and build impactful AI solutions.**
+- 💬 Ask me about **MERN Stack Development, AI/ML, DSA, JavaScript, Python**
+- 📫 How to reach me: **yashkudale3068@gmail.com**
+- ⚡ **Would love to connect with like-minded people and collaborate on exciting projects.**
 
 ---
 
@@ -47,13 +47,10 @@ const prathamesh = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://prathameshjadhavportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-jadhav-3a13b3285/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prathameshjadh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prathameshjadh/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jadhavprathame16)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/prathameshj2vvb/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/JadhavPrath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kudale-276196297/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kudale3068)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yashkudale7968/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkudale3068@gmail.com)
 
 </div>
 
@@ -68,37 +65,28 @@ const prathamesh = {
 <td align="center" width="50%">
 
 ### 🔥 **LeetCode Progress**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prathameshjadh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/prathameshjadh/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yashkudale7968?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/yashkudale7968/)
 
 </td>
 <td align="center" width="50%">
 
 ### 🏅 **CodeChef Profile**
-<a href="https://www.codechef.com/users/prathameshjadh" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-prathameshjadh-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+<a href="https://www.codechef.com/users/kudale3068" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-kudale3068-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
 </a>
 <br><br>
-<img src="https://img.shields.io/badge/Current%20Rating-1411-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Active-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="Problem Solving"/>
 <br>
-<img src="https://img.shields.io/badge/Stars-2⭐-yellow?style=for-the-badge&logo=star&logoColor=white" alt="CodeChef Stars"/>
-<br>
-<img src="https://img.shields.io/badge/Contests-27%20Participated-blue?style=for-the-badge&logo=trophy&logoColor=white" alt="Contest Participation"/>
+<img src="https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge&logo=algorithm&logoColor=white" alt="DSA Learning"/>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-
-### ⚡ **Codeforces Rating**
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=JadhavPrath&theme=dark)](https://codeforces.com/profile/JadhavPrath)
-
-</td>
-<td align="center" width="50%">
+<td align="center" colspan="2">
 
 ### 🎯 **Problem Solving Skills**
-<img src="https://img.shields.io/badge/DSA-Intermediate-blue?style=for-the-badge&logo=algorithm&logoColor=white" alt="DSA Level"/>
-<br><br>
-<img src="https://img.shields.io/badge/Problems%20Solved-500+-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problems Solved"/>
+<img src="https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge&logo=algorithm&logoColor=white" alt="DSA Level"/>
+<img src="https://img.shields.io/badge/Languages-C++%20|%20Java%20|%20Python-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Programming Languages"/>
 
 </td>
 </tr>
@@ -114,44 +102,43 @@ const prathamesh = {
 
 ### **Core Languages** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python"/>
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C"/>
 </p>
 
-### **Frontend Development** <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25px"/>
+### **MERN Stack Development** <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25px"/>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" title="Express.js"/>
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js"/>
+</p>
+
+### **Frontend Technologies** <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25px"/>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" title="TailwindCSS"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
 </p>
 
-### **Backend & Frameworks** <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25px"/>
+### **AI/ML & Data Science** <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="25px"/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" title="Spring Framework"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" title="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate" title="Hibernate"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" title="Scikit-Learn"/>
 </p>
 
-### **Database & Cloud Services** <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="25px"/>
+### **Database & Tools** <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"/>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase"/>
-</p>
-
-### **Development Tools** <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"/>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" title="Maven"/>
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
 </p>
 
 </div>
@@ -162,15 +149,15 @@ const prathamesh = {
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-2005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-2005&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashKudale&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashKudale&theme=radical&hide_border=true" />
 
 </div>
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-2005&layout=compact&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathamesh-2005&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKudale&layout=compact&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashKudale&theme=radical" />
 
 </div>
 
@@ -180,7 +167,7 @@ const prathamesh = {
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-2005&custom_title=Prathamesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00d9ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashKudale&custom_title=Yash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00d9ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </div>
 
@@ -190,8 +177,8 @@ const prathamesh = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 
-### 💫 **"Code is poetry written in logic"** <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50px"/>
+### 💫 **"Innovation distinguishes between a leader and a follower"** <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50px"/>
 
-**Thanks for visiting! Let's build something extraordinary together!** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"/>
+**Thanks for visiting! Let's build something amazing together!** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px"/>
 
 </div>
